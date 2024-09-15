@@ -1,5 +1,8 @@
 # VXCode: VS Code with Xcode Vibes
 
+![Uploading image.png…]()
+
+
 Transform your Visual Studio Code into a sleek, Xcode-inspired development environment with VXCode. This configuration brings the polished look and feel of Xcode to the versatile VS Code platform, perfect for developers working in any language or tech stack.
 
 ## 🎨 Features
