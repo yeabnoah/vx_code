@@ -1,0 +1,48 @@
+{
+  "editor.fontFamily": "SF Mono, Menlo, Monaco, 'Courier New', monospace",
+  "editor.fontLigatures": true,
+  "editor.formatOnSave": true,
+  "editor.fontSize": 12,
+  "editor.lineNumbers": "on",
+  "editor.minimap.enabled": false,
+  "editor.wordWrap": "on",
+  "editor.cursorBlinking": "smooth",
+  "editor.cursorSmoothCaretAnimation": "on",
+  "editor.accessibilitySupport": "off",
+
+  "workbench.colorTheme": "Xcode Default (Dark)",
+  "workbench.iconTheme": "vscode-icons",
+  "workbench.statusBar.visible": false,
+  "workbench.layoutControl.enabled": false,
+  "workbench.sideBar.location": "left",
+
+  "window.menuBarVisibility": "toggle",
+  "window.titleBarStyle": "custom",
+  "window.zoomLevel": 0,
+  "window.commandCenter": false,
+
+  "explorer.confirmDragAndDrop": false,
+  "explorer.confirmDelete": false,
+  "explorer.confirmPasteNative": false,
+  "explorer.openEditors.visible": 0,
+
+  "terminal.integrated.fontFamily": "SF Mono",
+  "terminal.integrated.fontSize": 12,
+
+  "git.autofetch": true,
+  "git.enableSmartCommit": true,
+
+  "editor.semanticHighlighting.enabled": true,
+  "editor.bracketPairColorization.enabled": true,
+  "editor.guides.bracketPairs": "active",
+
+  "breadcrumbs.enabled": false,
+  "editor.folding": false,
+  "editor.glyphMargin": false,
+  "editor.renderWhitespace": "none",
+  "editor.renderControlCharacters": false,
+  "editor.hideCursorInOverviewRuler": true,
+  "editor.overviewRulerBorder": false,
+  "workbench.activityBar.location": "top",
+  "window.customTitleBarVisibility": "never"
+}
