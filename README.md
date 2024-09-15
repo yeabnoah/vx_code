@@ -58,7 +58,3 @@ Got ideas to improve VXCode? Open an issue or submit a pull request on GitHub!
 ## ⭐ Star This Repository
 
 If you find VXCode useful, please consider giving it a star on GitHub! Your support helps keep the project active and encourages future development.
-
-## 📜 License
-
-This project is open source. You can use, modify, and distribute it according to your needs. If you have any questions about licensing, please contact me.
