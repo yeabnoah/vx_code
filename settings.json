@@ -1,48 +1,48 @@
 {
-  "editor.fontFamily": "SF Mono, Menlo, Monaco, 'Courier New', monospace",
-  "editor.fontLigatures": true,
-  "editor.formatOnSave": true,
-  "editor.fontSize": 12,
-  "editor.lineNumbers": "on",
-  "editor.minimap.enabled": false,
-  "editor.wordWrap": "on",
-  "editor.cursorBlinking": "smooth",
-  "editor.cursorSmoothCaretAnimation": "on",
-  "editor.accessibilitySupport": "off",
+  "editor.fontFamily": "SF Mono, Menlo, Monaco, 'Courier New', monospace", // Set the editor font family, including SF Mono for that Xcode vibe
+  "editor.fontLigatures": true, // Enable font ligatures for clean, connected code symbols
+  "editor.formatOnSave": true, // Automatically format code on save
+  "editor.fontSize": 12, // Set font size in the editor
+  "editor.lineNumbers": "on", // Display line numbers in the editor
+  "editor.minimap.enabled": false, // Disable minimap for a cleaner view
+  "editor.wordWrap": "on", // Wrap long lines of code in the editor
+  "editor.cursorBlinking": "smooth", // Enable smooth blinking for the cursor
+  "editor.cursorSmoothCaretAnimation": "on", // Enable smooth cursor animation when moving
+  "editor.accessibilitySupport": "off", // Disable accessibility support to improve performance
 
-  "workbench.colorTheme": "Xcode Default (Dark)",
-  "workbench.iconTheme": "vscode-icons",
-  "workbench.statusBar.visible": false,
-  "workbench.layoutControl.enabled": false,
-  "workbench.sideBar.location": "left",
+  "workbench.colorTheme": "Xcode Default (Dark)", // Set Xcode-inspired dark theme
+  "workbench.iconTheme": "vscode-icons", // Use vscode-icons for a better icon set
+  "workbench.statusBar.visible": false, // Hide the status bar for a more focused UI
+  "workbench.layoutControl.enabled": false, // Disable the layout control feature in the workbench
+  "workbench.sideBar.location": "left", // Position the sidebar on the left side
 
-  "window.menuBarVisibility": "toggle",
-  "window.titleBarStyle": "custom",
-  "window.zoomLevel": 0,
-  "window.commandCenter": false,
+  "window.menuBarVisibility": "toggle", // Automatically hide/show the menu bar
+  "window.titleBarStyle": "custom", // Remove the default title bar (especially useful for Linux)
+  "window.zoomLevel": 0, // Set default zoom level (0 means no zoom)
+  "window.commandCenter": false, // Disable the command center for a cleaner window
 
-  "explorer.confirmDragAndDrop": false,
-  "explorer.confirmDelete": false,
-  "explorer.confirmPasteNative": false,
-  "explorer.openEditors.visible": 0,
+  "explorer.confirmDragAndDrop": false, // Disable drag and drop confirmation in the file explorer
+  "explorer.confirmDelete": false, // Disable delete confirmation for files
+  "explorer.confirmPasteNative": false, // Disable paste confirmation for native file operations
+  "explorer.openEditors.visible": 0, // Hide the "Open Editors" section in the file explorer
 
-  "terminal.integrated.fontFamily": "SF Mono",
-  "terminal.integrated.fontSize": 12,
+  "terminal.integrated.fontFamily": "SF Mono", // Use SF Mono for the terminal font to match Xcode
+  "terminal.integrated.fontSize": 12, // Set font size in the terminal
 
-  "git.autofetch": true,
-  "git.enableSmartCommit": true,
+  "git.autofetch": true, // Automatically fetch changes from remote Git repositories
+  "git.enableSmartCommit": true, // Enable smart commit (commit without message if all changes are staged)
 
-  "editor.semanticHighlighting.enabled": true,
-  "editor.bracketPairColorization.enabled": true,
-  "editor.guides.bracketPairs": "active",
+  "editor.semanticHighlighting.enabled": true, // Enable semantic highlighting for better readability
+  "editor.bracketPairColorization.enabled": true, // Colorize matching brackets for better navigation
+  "editor.guides.bracketPairs": "active", // Show active bracket pair guides
 
-  "breadcrumbs.enabled": false,
-  "editor.folding": false,
-  "editor.glyphMargin": false,
-  "editor.renderWhitespace": "none",
-  "editor.renderControlCharacters": false,
-  "editor.hideCursorInOverviewRuler": true,
-  "editor.overviewRulerBorder": false,
-  "workbench.activityBar.location": "top",
-  "window.customTitleBarVisibility": "never"
+  "breadcrumbs.enabled": false, // Disable breadcrumbs for a cleaner editor UI
+  "editor.folding": false, // Disable code folding to keep everything expanded
+  "editor.glyphMargin": false, // Remove glyph margin for a cleaner code area
+  "editor.renderWhitespace": "none", // Don’t render whitespace characters
+  "editor.renderControlCharacters": false, // Don’t render control characters
+  "editor.hideCursorInOverviewRuler": true, // Hide the cursor in the overview ruler
+  "editor.overviewRulerBorder": false, // Remove the overview ruler border
+  "workbench.activityBar.location": "top", // Move the activity bar to the top of the window for an Xcode-like layout
+  "window.customTitleBarVisibility": "never" // Hide the title bar for a more immersive coding experience
 }
